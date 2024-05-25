@@ -1,0 +1,22 @@
+  <div class="d-flex justify-content-start rounded-3 p-2 mb-2"
+                  style="background-color: #efefef;">
+                  <div>
+                    <p class="small text-muted mb-1">
+                      Journal
+                    </p>
+                    <p class="mb-0"><span class="badge bg-light text-dark">Number</span></p>
+                  </div>
+                  <div class="px-3">
+                    <p class="small text-muted mb-1">
+                      Conferences
+                    </p>
+                    <p class="mb-0"><span class="badge bg-light text-dark">Number</span></p>
+                  </div>
+                  <div>
+                    <p class="small text-muted mb-1">
+                      Book chapter
+                    </p>
+                    <p class="mb-0"><span class="badge bg-light text-dark">Number</span></p>
+                  </div>
+                </div>
+             
